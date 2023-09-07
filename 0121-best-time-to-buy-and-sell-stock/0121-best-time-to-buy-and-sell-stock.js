@@ -28,6 +28,8 @@ return maxProfit
     
 };
 
+// // Ide utama adalah untuk menemukan harga saham terendah (minPrice) dan menghitung keuntungan maksimum yang dapat diperoleh jika saham dibeli pada harga terendah tersebut dan dijual pada harga tertinggi berikutnya.
+
 // fungsi maxProfit umumnya digunakan untuk mencari keuntungan maksimum yang dapat diperoleh dari membeli dan menjual saham dengan harga tertentu. dalam konteks ini, elemen2 array prices mewakili harga saham pada hari tertentu, dan dapat dibeli maupun dijual dalam urutan apapun
 
 // inisialisasi maxProfit untuk melacak keuntungan maks yang dapat diperoleh
